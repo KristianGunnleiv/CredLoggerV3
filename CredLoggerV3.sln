@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CredLoggerV3", "CredLoggerV3.pyproj", "{12B2CBAF-51FF-4DC8-BF2F-6AFFCCA2FD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B2CBAF-51FF-4DC8-BF2F-6AFFCCA2FD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B2CBAF-51FF-4DC8-BF2F-6AFFCCA2FD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1BFFCF-BEA5-4F32-8591-93AC5936A108}
+	EndGlobalSection
+EndGlobal
